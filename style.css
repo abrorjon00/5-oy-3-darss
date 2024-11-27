@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#change {
+    background: moccasin;
+    padding: 5px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left: 10px;
+    transition: 0.3s;
+}
+#change:hover {
+    background-color: aquamarine;
+}
